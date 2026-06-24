@@ -14,10 +14,10 @@ If something feels a little glitchy or off‑beat, that's usually intentional.
 
 ## ▓▒░ MAIN MENU ░▒▓
 
-- **DEV** — active  
-- **OBSERVE** — constant  
-- **LEARN** — ongoing  
-- **GLITCH** — occasional, intentional
+- **DEV** - active  
+- **OBSERVE** - constant  
+- **LEARN** - ongoing  
+- **GLITCH** - occasional, intentional
 
 ---
 
@@ -63,8 +63,8 @@ More practical than flashy, but it does what it needs to do.
 
 ### **CAFE GAME**  
 Based on my current job.  
-Focuses on workflow, pacing, and small interactions —  
-featuring the people I work with, friends, and family who drop by.
+Focuses on workflow, pacing, and small interactions.
+Featuring the people I work with, friends and family who drop by.
 
 ---
 
