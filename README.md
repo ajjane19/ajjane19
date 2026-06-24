@@ -5,10 +5,9 @@ just small glitches, small projects, steady progress ~
 
 </div>
 
-I make small, personal games.  
-Most of what I build comes from whatever I'm curious about, my home, my job, or something I want to understand better.  
-I like experimenting, learning, and figuring out how things work at my own pace.  
-If something feels a little glitchy or off‑beat, that's usually intentional.
+I make small, personal games. Usually inspired by whatever I'm curious about at the moment.  
+Sometimes it's something from home, sometimes work, sometimes just a random idea I want to understand better.  
+I like experimenting, learning and figuring out how things work at my own pace.  
 
 ---
 
